@@ -1,0 +1,15 @@
+#!/system/bin/sh
+
+echo "
+Aliases for the LS command:
+
+lca, lac, lsac, lasc, lc, la, lsc, lsa
+
+Terms:
+ls (normal ls, no -lAh or --color)
+la, lsa (ls -lAh)
+lc, lsc (ls --color)
+lsac, lasc, lca, lac (ls -lAh --color)
+
+- SMOLKEYS
+"
